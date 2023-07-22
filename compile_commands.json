@@ -1,0 +1,212 @@
+[
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "create.o",
+   "create.c"
+  ],
+  "file": "create.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "query.o",
+   "query.c"
+  ],
+  "file": "query.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "page.o",
+   "page.c"
+  ],
+  "file": "page.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "reln.o",
+   "reln.c"
+  ],
+  "file": "reln.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "tuple.o",
+   "tuple.c"
+  ],
+  "file": "tuple.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "util.o",
+   "util.c"
+  ],
+  "file": "util.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "chvec.o",
+   "chvec.c"
+  ],
+  "file": "chvec.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "hash.o",
+   "hash.c"
+  ],
+  "file": "hash.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "bits.o",
+   "bits.c"
+  ],
+  "file": "bits.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "dump.o",
+   "dump.c"
+  ],
+  "file": "dump.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "insert.o",
+   "insert.c"
+  ],
+  "file": "insert.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "select.o",
+   "select.c"
+  ],
+  "file": "select.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "stats.o",
+   "stats.c"
+  ],
+  "file": "stats.c"
+ },
+ {
+  "directory": "/Users/bohanzhang/COMP9315/ass2",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "-g",
+   "-std=c99",
+   "-c",
+   "-o",
+   "gendata.o",
+   "gendata.c"
+  ],
+  "file": "gendata.c"
+ }
+]
